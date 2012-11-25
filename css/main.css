@@ -60,6 +60,18 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+.content-container {
+    margin: 0 auto;
+    max-width: 1024px;
+}
+
+header {
+    height: 325px;
+    background-image: url('/images/panorama-utrecht.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
 
 
 
