@@ -1,6 +1,7 @@
 ---
-layout: post
-title: ! '2012-11-29 HackersNL #15'
+layout: page
+title: ! 'HackersNL #15: Lua, Debian & Ubuntu'
+event_date: '29-11-2012'
 tags:
 - Agenda
 status: publish
@@ -9,6 +10,9 @@ published: true
 meta:
   _edit_last: '1'
 ---
+
+<h2>{{ page.title }}</h2>
+
 Donderdagavond 29 november 2012 is de 15e HackersNL avond in Utrecht. We hebben wederom drie presentaties op het programma staan en uiteraard is er ook genoeg tijd om informeel met elkaar kennis te maken.
 
 <strong>LET OP: De lokatie is gewijzigd! We zitten NIET bij de Dutch Game Garden, maar aan de Oudegracht 183!!</strong>
