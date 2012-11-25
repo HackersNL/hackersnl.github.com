@@ -78,14 +78,31 @@ nav {
     padding: 0;
     list-style: none;
 }
+.events-more {
+    display: block;
+    margin: 10px 0 10px 6px;
+    a { margin-left: 2px; }
+}
 
 .event-preview {
-    padding: 1em ;
+    margin-left: 0.25em;
+    padding: 1em 0;
     border-bottom: 1px solid #ccc;
 
-    a.event-title {
+    .event-icon {
+        float: left;
+        margin-top: 3px;
+    }
+    .event-title {
+        margin-left: 20px;
         display: block;
+        font-size: 1em;
+    }
+    .event-meta {
+        margin-left: 20px;
+
+        .event-date { font-style: italic; }
+        .location-map { font-size: 0.75em; vertical-align: center; }
     }
 
-    .location-map { font-size: 0.75em; vertical-align: top; }
 }

@@ -20,15 +20,21 @@ layout: beea
         <ul class="events-list">
             {% for post in paginator.posts limit:5 %}
             <li class="event-preview">
-                <a class="event-title" href="{{ post.url }}">{{ post.title }}</a>
-                <span class="event-date">{{ post.event_date }}</span>,
-                <span class="event-location">Oude gracht 183, Utrecht <span class="location-map">(<a href="">map</a>)</span></span>
+                <i class="icon-calendar event-icon"></i>
+                <div class="event-title">
+                    <a href="{{ post.url }}">{{ post.title }}</a>
+                </div>
+                <div class="event-meta">
+                    <span class="event-date">{{ post.event_date }}</span>,
+                    <span class="event-location">Oude gracht 183, Utrecht <span class="location-map">(<a href="">map</a>)</span></span>
+                </div>
             </li>
             {% endfor %}
 
         </ul>
-        <div>
-            <a href="/events.html">meer events</a>
+        <div class="events-more">
+            <i class="icon-list"></i>
+            <a href="/events.html">alle bijeenkomsten</a>
         </div>
     </div>
     <div class="span4">
@@ -46,7 +52,7 @@ layout: beea
             <h2>Google Group</h2>
             <p>
                 Dit is de back channel van de HackersNL community.
-                
+
                 Hier bespreken we de bijeenkomsten en kun je in contact komen met de rest van de community.
             </p>
             <p>
