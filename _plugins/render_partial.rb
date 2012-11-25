@@ -22,7 +22,7 @@
 #
 
 require 'pathname'
-require './plugins/octopress_filters'
+require './_plugins/octopress_filters'
 
 module Jekyll
 
