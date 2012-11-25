@@ -1,0 +1,34 @@
+---
+layout: post
+title: ! '2011-10-27 HackersNL #3'
+tags:
+- Agenda
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+---
+Op donderdag 27 oktober 2011 zal de derde HackersNL avond plaatsvinden in Utrecht! We hebben wederom drie presentaties op het programma staan en uiteraard is er ook genoeg tijd om informeel met elkaar kennis te maken.
+
+<strong>LET OP: De lokatie is gewijzigd! We zitten NIET bij de Dutch Game Garden, maar aan de Oudegracht 183!!</strong>
+
+Je bent vanaf 20:00 van harte welkom aan de <a href="http://g.co/maps/zzqs3">Oudegracht 183</a> in Utrecht. Vergeet echter niet vantevoren jezelf <a title="Reserveren" href="{{ root_url }}/aanmelden.html">aan te melden</a>, zonder aanmelding kan het zijn dat er geen plek meer is!
+<h3>Programma (aanvang 20:00)</h3>
+<h4>'1 minuut' door jou</h4>
+<img class="alignleft" title="1-minute-cc-by-Flickr-Renett-Stowe" src="{{ root_url }}/images/1-minute-cc-by-Flickr-Renett-Stowe-300x225.jpg" alt="1-minute-cc-by-Flickr-Renett-Stowe" width="300" height="225" />Je hebt <a href="https://secure.wikimedia.org/wikipedia/en/wiki/Lightning_Talk">Lightning Talks</a>, je hebt de <a href="https://secure.wikimedia.org/wikipedia/en/wiki/Elevator_pitch">Elevator Pitch</a> en nu dus ook de 1 Minuut. Iedere aanwezige krijgt 1 minuut de tijd om zichzelf voor te stellen of om een interessant project, idee of anecdote te vertellen. Perfect om een beter beeld te krijgen van waar iedereen zoal mee bezig is, zodat je later tijdens de avond hier nog eens verder over door kan kletsen.
+
+<em>Over jou</em>
+Je bent veel bezig met technologie. Je bouwt zelf bijvoorbeeld software of hardware. Bent freelancer of medewerker bij een interessant bedrijf. Enthousiast en de meeste mensen beschrijven je als een vakidioot.
+<h4>'Mobiel spectrum, opensource/free software, macht en kunst' door Henrik van Leeuwen</h4>
+<img class="size-medium wp-image-123 alignleft" title="telco-map-smaller" src="{{ root _url }}/images/telco-map-smaller-300x187.jpg" alt="" width="300" height="187" />Het is meer dan duidelijk dat internet en draadloze technologieën een steeds verdere invloed hebben op het dagelijks leven. Hierin is het van belang om deze technologieën en beweging bloot te leggen door deze in kaart te brengen, te becommentariëren, open te breken, mee te spelen en aan te passen. Een van deze technologieën is het gsm (of umts, lte, etc.) protocol. Een vrij gesloten protocol, dat beheerd wordt door een kleine en machtige groep, maar met een grote wereldwijde impact. Een presentatie over het mobiele spectrum, opensource/free software gsm en gerelateerde interessante projecten.
+
+<em>Over Henrik van Leeuwen:</em>
+<a href="http://henrikvanleeuwen.nl/"> Henrik van Leeuwen</a> (1981) is een grafisch ontwerper, media kunstenaar en onderzoeker met een interesse in globale fenomenen waar technologie, design en machtstructuren bij elkaar komen. Enkele van zijn recente projecten waren in samenwerking met o.a. <a href="http://www.stedelijk.nl/">het Stedelijk Museum</a>, <a href="http://www.nai.nl/">het Nederlands Architectuur Instituut</a> en het <a href="http://www.graphicdesignmuseum.nl/">Graphic Design Museum</a> Breda.
+<h4>'Datastructures: implementations and properties in several programming languages' door Jurriën Stutterheim</h4>
+<img class="size-full wp-image-126 alignleft" title="jstutterheim" src="{{ root_url }}/images/zelfportret300300.png" alt="" width="300" height="300" /></a><a href="https://en.wikipedia.org/wiki/Data_structure">Data structures</a> are the cornerstone of programs, even in the lowest-level programming languages. In this talk we will see several different implementations of data structures in several programming languages and discuss their respective properties. How "fast" is are the data structures? When should you use a particular data structure? What about data structure mutability?</span></h4>
+&nbsp;
+
+<em>Over Jurriën Stutterheim</em>
+Jurriën Stutterheim is currently in his final year of MSc in Computing Science (formerly known as Software Technology) at Utrecht University. Wrote his first "program" (if you can call it that) in the 90's when Visual Basic 3 was the latest and greatest. Since then he has seen and worked with every kind of programming language you can think of. From Java and PHP to Haskell and Coq. From Java and PHP to Haskell and Coq.
+Over the years he has been lucky enough to work on some very interesting projects at the UMC Utrecht, Otago University in New Zealand and at Utrecht University, amongst others. Currently, he is completely into <a href="https://en.wikipedia.org/wiki/Functional_programming">functional programming</a> in general and Haskell in particular.

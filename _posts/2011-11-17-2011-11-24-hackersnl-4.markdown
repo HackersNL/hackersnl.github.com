@@ -1,0 +1,45 @@
+---
+layout: post
+title: ! '2011-11-24 HackersNL #4'
+tags:
+- Agenda
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '2'
+---
+Op donderdag 24 november 2011 zal de derde HackersNL avond plaatsvinden in Utrecht! We hebben wederom drie presentaties op het programma staan en uiteraard is er ook genoeg tijd om informeel met elkaar kennis te maken.
+
+<strong>LET OP: De lokatie is gewijzigd! We zitten NIET bij de Dutch Game Garden, maar aan de Oudegracht 183!!</strong>
+
+Je bent vanaf 20:00 van harte welkom aan de <a href="http://g.co/maps/zzqs3">Oudegracht 183</a> in Utrecht. Vergeet echter niet vantevoren jezelf <a title="Reserveren" href="{{ root_url }}/aanmelden.html">aan te melden</a>, zonder aanmelding kan het zijn dat er geen plek meer is!
+<h3>Programma (aanvang 20:00)</h3>
+<h4>'1 minuut' door jou</h4>
+<img class="alignleft" title="1-minute-cc-by-Flickr-Renett-Stowe" src="{{ root_url }}/images/1-minute-cc-by-Flickr-Renett-Stowe-300x225.jpg" alt="1-minute-cc-by-Flickr-Renett-Stowe" width="300" height="225" />Je hebt <a href="https://secure.wikimedia.org/wikipedia/en/wiki/Lightning_Talk">Lightning Talks</a>, je hebt de <a href="https://secure.wikimedia.org/wikipedia/en/wiki/Elevator_pitch">Elevator Pitch</a> en nu dus ook de 1 Minuut. Iedere aanwezige krijgt 1 minuut de tijd om zichzelf voor te stellen of om een interessant project, idee of anecdote te vertellen. Perfect om een beter beeld te krijgen van waar iedereen zoal mee bezig is, zodat je later tijdens de avond hier nog eens verder over door kan kletsen.
+
+<em>Over jou</em>
+Je bent veel bezig met technologie. Je bouwt zelf bijvoorbeeld software of hardware. Bent freelancer of medewerker bij een interessant bedrijf. Enthousiast en de meeste mensen beschrijven je als een vakidioot.
+<h4>'The Quantified Self' door Joost Plattel</h4>
+<img class="alignleft size-medium wp-image-154" style="margin-right: 5px; margin-bottom: 5px;" title="joost" src="{{ root_url }}/images/joost-300x244.png" alt="" width="300" height="244" />
+<div>The Quantified Self is een samenwerking van mensen die geïnteresseerd zijn in het loggen van persoonlijke data.  Bloeddruk en analyse, slaappatronen of het meten van je productiviteit. Zelfs het bijhouden van je agenda is een bron van informatie. QS omvat alle informatie die jij als persoon genereert en gaat erover hoe je dit gebruikt in je dagelijkse leven. Ben je een avondmens of werk je het beste na 3 koffie? En heb jij een idee hoeveel diepe slaap in verhouding tot rem-slaap je hebt en hoe dit je werkpatroon kan beïnvloeden?</div>
+<div>Met het behulp van persoonlijke experimenten kan QS een feedback loop creëren die je helpt met je eigen leven en het ontwikkelen daarvan of men kan het inzetten voor het crowsourcen van de de wetenschap.</div>
+Je kan meer lezen over Quantified Self op:
+ * <a href="http://quantifiedself.com/" target="_blank">quantifiedself.com</a>
+ * <a href="http://www.ted.com/talks/gary_wolf_the_quantified_self.html" target="_blank">http://www.ted.com/talks/<wbr>gary_wolf_the_quantified_self.html</wbr></a>
+ * <a href="http://quantified-self.meetup.com/" target="_blank">quantified-self.meetup.com</a>
+
+<em>Over Joost Plattel:</em>
+Joost Plattel is de co-founder van QS Amsterdam, freelancer en nog een beetje student. Naast al dat alles houd hij van open-source en handige kleine dingen die je veel tijd besparen. Zijn favoriete programmeertaal is python en hij schiet elke dag om 8:36pm een foto.
+<h4>'Supercharge je productiviteit met Git' door Jeroen Tietema</h4>
+<img class="alignleft size-medium wp-image-155" style="margin-right: 5px; margin-bottom: 5px;" title="Jeroen Tietema" src="{{ root_url }}/images/IMG_0041_small-200x300.jpg" alt="" width="200" height="300" />Heb jij:
+<ul style="padding-left: 225px;">
+	<li>collega's/een baas die de codebase niet vanuit Subversion wil migreren naar Git (ondanks je overtuigende argumenten)?</li>
+	<li>wel eens bergen werk kwijt geraakt door een foute merge in Subversion?</li>
+	<li>meer uit je dagelijks gebruik van Git kunt halen?</li>
+</ul>
+<div>Dan is dit een praatje voor jou! We gaan kijken naar Git, wat geavanceerde gebruiksscenario's en hoe je Git kunt gebruiken in combinatie met een Subversion repository (en ook hoe vooral niet).</div>
+&nbsp;
+
+<em>Over Jeroen Tietema</em>
+Jeroen is freelance Android en web ontwikkelaar. Dagelijks programmeert hij in Java of PHP. Daarnaast is Jeroen enthousiast gebruiker van Open Source. Buiten werktijd houdt Jeroen van buitensporten als wild water kayakken en klimmen.
