@@ -1,6 +1,7 @@
 ---
 layout: post
-title: ! '2012-06-28 HackersNL #10'
+title: ! 'HackersNL #10: Robocode & RaspberryPI'
+event_date: '2012-06-28'
 tags:
 - Agenda
 status: publish

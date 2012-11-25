@@ -1,6 +1,7 @@
 ---
 layout: post
-title: ! '2012-09-27 HackersNL #13'
+title: ! 'HackersNL #13'
+event_date: '2012-09-27'
 tags:
 - Agenda
 status: publish
