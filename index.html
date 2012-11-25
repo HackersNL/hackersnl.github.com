@@ -2,28 +2,23 @@
 layout: beea
 ---
 
-<div class="blog-index">
-  {% assign index = true %}
-  {% for post in paginator.posts %}
-  {% assign content = post.content %}
-    <article>
-      {% include article.html %}
-    </article>
-  {% endfor %}
-  <div class="pagination">
-    {% if paginator.next_page %}
-      <a class="prev" href="{{paginator.next_page}}">&larr; Older</a>
-    {% endif %}
-    <a href="/blog/archives">Blog Archives</a>
-    {% if paginator.previous_page %}
-    <a class="next" href="{{paginator.previous_page}}">Newer &rarr;</a>
-    {% endif %}
-  </div>
+<div>
+
+    <div></div>
+    <div>
+        <h2>Bijeenkomsten</h2>
+        <ul>
+            {% for post in paginator.posts %}
+            <li>{{ post.title }}</li>
+            {% endfor %}
+      </ul>
+    <div>
+        <div>
+            <h2>Nieuwsbrief</h2>
+        </div>
+
+        <div>
+            <h2>Google Group</h2>
+        </div>
+    </div>
 </div>
-<aside class="sidebar">
-  {% if site.blog_index_asides.size %}
-    {% include_array blog_index_asides %}
-  {% else %}
-    {% include_array default_asides %}
-  {% endif %}
-</aside>
