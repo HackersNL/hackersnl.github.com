@@ -1,6 +1,39 @@
+/********
+ * Colors
+ */
+@primary1: #109E10;
+@primary2: #277727;
+@primary3: #056705;
+@primary4: #43CF43;
+@primary5: #68CF68;
+
+@secondaryA1: #0C7777;
+@secondaryA2: #1D5959;
+@secondaryA3: #044D4D;
+@secondaryA4: #3DBBBB;
+@secondaryA5: #5EBBBB;
+
+@secondaryB1: #81B813;
+@secondaryB2: #6B8A2D;
+@secondaryB3: #527806;
+@secondaryB4: #AADC48;
+@secondaryB5: #B7DC6F;
+
+@font-face {
+    font-family: 'Exo Medium';
+    src: url('fonts/Exo-Medium.ttf') format('truetype');
+}
 .content-container {
     margin: 0 auto;
     max-width: 1024px;
+}
+
+a {
+    color: @primary1;
+}
+
+h1, h2, h3 {
+    font-family: 'Exo Medium', Helvetica;
 }
 
 header {
@@ -11,7 +44,7 @@ header {
 }
 
 nav {
-    background-color: #CCC;
+    background-color: @secondaryA5;
 
     ul {
         margin: 6px;
