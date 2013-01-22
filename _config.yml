@@ -2,11 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 url: http://www.beea.nl
-title: Beea
-subtitle: Bits, electronen en atomen.
+title: BEEA
+subtitle: Builders, Engineers, Explorers &amp; Artists
 author: Björn Wijers & Jeroen Tietema
 simple_search: http://google.com/search
-description: Bits, electronen en atomen
+description: Builders, Engineers, Explorers &amp; Artists
+
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
