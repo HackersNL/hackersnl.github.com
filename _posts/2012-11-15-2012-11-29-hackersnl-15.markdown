@@ -11,11 +11,9 @@ meta:
   _edit_last: '1'
 ---
 
-# {{ page.title }}
-
 Donderdagavond 29 november 2012 is de 15e HackersNL avond in Utrecht. We hebben wederom drie presentaties op het programma staan en uiteraard is er ook genoeg tijd om informeel met elkaar kennis te maken.
 
-<strong>LET OP: De lokatie is gewijzigd! We zitten NIET bij de Dutch Game Garden, maar aan de Oudegracht 183!!</strong>
+**LET OP: De lokatie is gewijzigd! We zitten NIET bij de Dutch Game Garden, maar aan de Oudegracht 183!!**
 
 
 ## 'Lua' door Thijs Schreijer & Rob Hoelz
