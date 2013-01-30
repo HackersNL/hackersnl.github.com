@@ -1,0 +1,19 @@
+---
+layout: beea
+---
+<h2>Bijeenkomsten</h2>
+<ul class="events-list">
+    {% for post in site.posts %}
+    <li class="event-preview">
+        <i class="icon-calendar event-icon"></i>
+        <div class="event-title">
+            <a href="{{ post.url }}">{{ post.title }}</a>
+        </div>
+        <div class="event-meta">
+            <span class="event-date">{{ post.event_date }}</span>,
+            <span class="event-location">Oude gracht 183, Utrecht <span class="location-map">(<a href="">map</a>)</span></span>
+        </div>
+    </li>
+    {% endfor %}
+
+</ul>
