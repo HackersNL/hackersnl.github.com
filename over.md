@@ -11,14 +11,14 @@ published: true
 
 Onder de naam BEEA is er elke laatste donderdag van de maand (check de agenda!) een informele
 bijeenkomst voor [techneuten, nerds en aanverwanten](http://beea.nl/over.html) in
-[hartje Utrecht](http://hackersnl.nl/lokatie.html)hartje Utrecht</a>. Doel van de avond is om
+[hartje Utrecht](http://beea.nl/locatie.html). Doel van de avond is om
 kennis, ideëen en ervaringen uit te wisselen rondom technologie.
 
 <em>U wilt iets laten hacken? U bent journalist en u wilt even snel een soundbite over criminelen?
 U heeft bovenstaande niet gelezen of niet begrepen? BEEA kan u <strong>niet</strong> van dienst zijn.
-Zie ook: <a title="Wat is de omschrijving van hackers door hackersnl?" href="http://beea.nl/hackers.html">'Hackers?'</a></em>
+Zie ook: ['Hackers'](http://beea.nl/hackers.html "Wat is de omschrijving van hackers door BEEA?")?</em>
 
-De toegang is - dankzij de genereuze ondersteuning van <a href="http://setup.nl">SETUP</a> - geen tien,
+De toegang is - dankzij de genereuze ondersteuning van [SETUP](http://setup.nl) - geen tien,
 maar slechts nul euro. Je dient je wel van te voren [aan te melden](http://beea.nl/aanmelden.html).
 Zonder [aanmelding](http://beea.nl/aanmelden.html) kan het zijn dat er geen plek meer is!
 
